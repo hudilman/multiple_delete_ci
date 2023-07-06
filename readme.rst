@@ -71,4 +71,4 @@ contributors to the CodeIgniter project and you, the CodeIgniter user.
 
 
 
-HOW TO MULTIPLE DELETE WITH CI
+HOW TO MULTIPLE DELETE WITH CI 
